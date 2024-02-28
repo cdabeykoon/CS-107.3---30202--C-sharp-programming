@@ -1,0 +1,7 @@
+E:\first year\Third semester\labsheets\labsheet 3\Question 2\Question 2\bin\Debug\Question 2.exe.config
+E:\first year\Third semester\labsheets\labsheet 3\Question 2\Question 2\bin\Debug\Question 2.exe
+E:\first year\Third semester\labsheets\labsheet 3\Question 2\Question 2\bin\Debug\Question 2.pdb
+E:\first year\Third semester\labsheets\labsheet 3\Question 2\Question 2\obj\Debug\Question 2.csproj.AssemblyReference.cache
+E:\first year\Third semester\labsheets\labsheet 3\Question 2\Question 2\obj\Debug\Question 2.csproj.CoreCompileInputs.cache
+E:\first year\Third semester\labsheets\labsheet 3\Question 2\Question 2\obj\Debug\Question 2.exe
+E:\first year\Third semester\labsheets\labsheet 3\Question 2\Question 2\obj\Debug\Question 2.pdb

@@ -1,0 +1,7 @@
+E:\first year\Third semester\labsheets\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\first year\Third semester\labsheets\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\first year\Third semester\labsheets\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\first year\Third semester\labsheets\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\first year\Third semester\labsheets\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\first year\Third semester\labsheets\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\first year\Third semester\labsheets\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
