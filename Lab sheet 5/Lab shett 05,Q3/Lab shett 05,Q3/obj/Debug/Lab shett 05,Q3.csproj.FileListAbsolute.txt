@@ -1,0 +1,11 @@
+D:\C# module\Lab sheet\Lab sheet 05\Lab shett 05,Q3\Lab shett 05,Q3\bin\Debug\Lab shett 05,Q3.exe.config
+D:\C# module\Lab sheet\Lab sheet 05\Lab shett 05,Q3\Lab shett 05,Q3\bin\Debug\Lab shett 05,Q3.exe
+D:\C# module\Lab sheet\Lab sheet 05\Lab shett 05,Q3\Lab shett 05,Q3\bin\Debug\Lab shett 05,Q3.pdb
+D:\C# module\Lab sheet\Lab sheet 05\Lab shett 05,Q3\Lab shett 05,Q3\obj\Debug\Lab shett 05,Q3.csproj.AssemblyReference.cache
+D:\C# module\Lab sheet\Lab sheet 05\Lab shett 05,Q3\Lab shett 05,Q3\obj\Debug\Lab_shett_05_Q3.Form1.resources
+D:\C# module\Lab sheet\Lab sheet 05\Lab shett 05,Q3\Lab shett 05,Q3\obj\Debug\Lab_shett_05_Q3.Form2.resources
+D:\C# module\Lab sheet\Lab sheet 05\Lab shett 05,Q3\Lab shett 05,Q3\obj\Debug\Lab_shett_05_Q3.Properties.Resources.resources
+D:\C# module\Lab sheet\Lab sheet 05\Lab shett 05,Q3\Lab shett 05,Q3\obj\Debug\Lab shett 05,Q3.csproj.GenerateResource.cache
+D:\C# module\Lab sheet\Lab sheet 05\Lab shett 05,Q3\Lab shett 05,Q3\obj\Debug\Lab shett 05,Q3.csproj.CoreCompileInputs.cache
+D:\C# module\Lab sheet\Lab sheet 05\Lab shett 05,Q3\Lab shett 05,Q3\obj\Debug\Lab shett 05,Q3.exe
+D:\C# module\Lab sheet\Lab sheet 05\Lab shett 05,Q3\Lab shett 05,Q3\obj\Debug\Lab shett 05,Q3.pdb
