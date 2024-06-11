@@ -1,0 +1,13 @@
+D:\C# module\Lab sheet\Lab sheet 06\Lab sheet 06\Lab sheet 06\bin\Debug\Database1.mdf
+D:\C# module\Lab sheet\Lab sheet 06\Lab sheet 06\Lab sheet 06\bin\Debug\Database1_log.ldf
+D:\C# module\Lab sheet\Lab sheet 06\Lab sheet 06\Lab sheet 06\bin\Debug\Lab sheet 06.exe.config
+D:\C# module\Lab sheet\Lab sheet 06\Lab sheet 06\Lab sheet 06\bin\Debug\Lab sheet 06.exe
+D:\C# module\Lab sheet\Lab sheet 06\Lab sheet 06\Lab sheet 06\bin\Debug\Lab sheet 06.pdb
+D:\C# module\Lab sheet\Lab sheet 06\Lab sheet 06\Lab sheet 06\obj\Debug\Lab sheet 06.csproj.AssemblyReference.cache
+D:\C# module\Lab sheet\Lab sheet 06\Lab sheet 06\Lab sheet 06\obj\Debug\Lab_sheet_06.Employee.resources
+D:\C# module\Lab sheet\Lab sheet 06\Lab sheet 06\Lab sheet 06\obj\Debug\Lab_sheet_06.Form1.resources
+D:\C# module\Lab sheet\Lab sheet 06\Lab sheet 06\Lab sheet 06\obj\Debug\Lab_sheet_06.Properties.Resources.resources
+D:\C# module\Lab sheet\Lab sheet 06\Lab sheet 06\Lab sheet 06\obj\Debug\Lab sheet 06.csproj.GenerateResource.cache
+D:\C# module\Lab sheet\Lab sheet 06\Lab sheet 06\Lab sheet 06\obj\Debug\Lab sheet 06.csproj.CoreCompileInputs.cache
+D:\C# module\Lab sheet\Lab sheet 06\Lab sheet 06\Lab sheet 06\obj\Debug\Lab sheet 06.exe
+D:\C# module\Lab sheet\Lab sheet 06\Lab sheet 06\Lab sheet 06\obj\Debug\Lab sheet 06.pdb
